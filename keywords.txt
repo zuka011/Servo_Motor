@@ -1,0 +1,34 @@
+#####################################################
+# Syntax Coloring Map For Servo_Motor Library 
+#####################################################
+
+###############
+# Class Names 
+###############
+
+ServoMotor	KEYWORD1
+
+################
+# Method Names 
+################
+
+attach	KEYWORD2
+isAttached	KEYWORD2
+write	KEYWORD2
+writeMicroseconds	KEYWORD2
+read	KEYWORD2
+enableCallback	KEYWORD2
+disableCallback	KEYWORD2
+enableSweep	KEYWORD2
+disableSweep	KEYWORD2
+isSweeping	KEYWORD2
+sweep	KEYWORD2
+
+################
+# Constants
+################
+
+SweepType	LITERAL1
+Reverse	LITERAL1
+SkipReverse	LITERAL1
+Single	LITERAL1
